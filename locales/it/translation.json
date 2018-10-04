@@ -1,0 +1,130 @@
+{
+  "trans": {
+	"0": "Luminoso",
+	"1": "Scuro"
+	"3": "Carlos Javier Ariza Pérez",
+	"4": "Mi piace il back-end",
+	"5": "I am",
+	"6": "carlos ariza"
+	"7": "sviluppatore",
+	"8": "programmatore",
+	"9": "educazione",
+	"10": "Esperienza",
+	"11": "carlosariza.com.ve",
+	"12": "Sono Carlos Aris, Venezuela israeliana, lingue origine presto sposata, ma più di un programmatore con esperienza in PHP Fondo orientati, NodeJS, C # e Golang, ma anche imparato iniziano Jquery, angolo, Vanilla.js, hTML5 e CSS, oltre ai componenti elettronici ibridi per l'integrazione del desktop o nw.js JS, lo scambio di dati attraverso Restfull, WebSocket, CRP, torrente o sapone".
+	"13": "Il database ha un MySQL SQL, PostgreSQL, SQLite e MongoDB, Redis e IndexDB, con studi in WebHooks, WebRTC, Firebase, Puscher, PayPal, MercadoPago, Localbitcoin, Blockchain e alcuni nativo Android .,
+	"14": "Sono un programmatore",
+	"15": "Inizio"
+	"16": "O",
+	"17": "Tutti i diritti riservati © 2018 Carlosariza.com.ve || Tutti i diritti riservati || assistenza in inglese, italiano, tedesco, russo, francese e portoghese (w)"
+	"18": "telefono"
+	"19": "+58 424 637 0605",
+	"20": "email"
+	"21": "Indirizzo",
+	"22": "VE, ZU, MCBO, Modines 20PBC"
+	"23": "Università di Unef",
+	"24": "Ingegnere di sistema",
+	"25": "Istituto di tecnologia"
+	"26": "tecnico informatico",
+	"27": "congresso",
+	"28": "Software libero V"
+	"29": "Sionbox INC.",
+	"30": "sionbox.com",
+	"31": "Uribarri S.A. Services",
+	"32": "autoperriquitosurribarri.com.ve"
+	"33": "Macho la Barberia",
+	"34": "machoslabarberia.com.ve",
+	"35": "Abilità"
+	"36": "Nodejs",
+	"37": "php",
+	"38": "angolo"
+	"39": "Firebase",
+	"40": "Servizi",
+	"41": "Desktop",
+	"42": "Comunicazione",
+	"43": "monetizzazione",
+	"44": "Luminoso",
+	"45": "Adattivo"
+	"46": "Offerte",
+	"47": "Con un design unico, lo sviluppo di applicazioni desktop con o senza accesso a Internet, i dati sincronizzati con o senza server di fatturazione"
+	"48": "Consumare API, saponi, siti web e tutti i tipi di notifiche che il sistema richiede per il funzionamento o per il cliente"
+	"49": "Creato da microservices e servizi di auto-monitoraggio, pronti a trarre profitto con l'aiuto di processori pagamenti e trasferimenti di denaro"
+	"50": "Test tutte le parti del sistema dall'interfaccia esterna al backend, rinforzato o la crittografia SSL JWT e Cert Digit per proteggere le informazioni"
+	"51": "il design scalabile di accedere ad altri dispositivi, applicazioni mobili future, applicazioni desktop o funzionale e risposte a qualsiasi interfaccia"
+	"52": "tecnologico"
+	"53": "La migliore è stata implementata come WebSocket, WebRTC WebHooks, JWT, WebWorkers basato su SQL e piattaforme di dati NoSQL come Firebase, pusher o Socker.io"
+	"54": "Offerta",
+	"55": "Servizi",
+	"56": "Scarica C.V",
+	"57": "Prendimi",
+	"58": "Contattami",
+	"59": "Se hai un'idea, seleziona tutto ciò che hai",
+	"81": "Contratto"
+	"60": "jose perez",
+	"61": "Paese di residenza",
+	"62": "Categoria"
+	"63": "Esperienza",
+	"64": "Vuole qualcosa"
+	"65": "Qual è l'ambiente"
+	"66": "Comunicazione",
+	"67": "Offerta",
+	"68": "Database",
+	"69": "repliche",
+	"70": "accetta pagamento",
+	"71": "Tipo di pagamento"
+	"72": "include pannello",
+	"73": "Include atterraggio",
+	"74": "Include dominio",
+	"75": "Include hosting",
+	"76": "Gestione dei bisogni",
+	"77": "Url simili",
+	"78": "Ulteriori dettagli"
+	"79": "Una breve descrizione della tua idea o progetto in 500 caratteri",
+	"80": "Effettua una spedizione"
+	"82": "Azienda",
+	"83": "Personale"
+	"84": "I am new",
+	"85": "esperto",
+	"86": "* Nuovo",
+	"87": "Aggiornato",
+	"88": "riparato",
+	"89": "accoppiato",
+	"90": "* backend e frontend",
+	"91": "Backend, Frontend, Android e Desktop",
+	"92": "Backend, Frontend e Android",
+	"93": "Backend e Android",
+	"94": "desktop",
+	"95": "Frontend",
+	"96": "backend"
+	"97": "Android",
+	"98": "* Websocket",
+	"99": "Ajax",
+	"100": "sapone",
+	"101": "Rpc",
+	"102": "* Nodejs",
+	"103": "php",
+	"104": "golang",
+	"105": "vaniglia",
+	"106": "C #",
+	"107": "css",
+	"108": "Html5",
+	"109": "* NoSql",
+	"110": "Sql",
+	"111": "* Copia di backup",
+	"112": "Database singolo",
+	"114": "* Paypal",
+	"115": "mercadopago"
+	"116": "bitcoin"
+	"117": "localbitcoin",
+	"118": "Visa"
+	"119": "* 20% di anticipo, 60% di consegna e 20% di evidenza",
+	"120": "acconto del 30%, consegna del 50% e prova del 20%",
+	"121": "40% di anticipo, 40% di consegna e 20% di prova",
+	"122": "15% delle azioni, si applicano le condizioni (*)",
+	"123": "* Sì",
+	"124": "no"
+	"125": "Contatto",
+	"126": "Chiudi",
+	"127": "Nessun pagamento"
+	}
+}
