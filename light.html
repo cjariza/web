@@ -634,6 +634,11 @@
 					save($("#hosting").val());
 					save($("#gestion").val());
 					
+					carlos.todo = JSON.parse(window.sessionStorage.getItem("carlosAriza-datos"));
+					
+					firebase.database().ref("/jobs/+"+carlos.todo[3]).set(carlos.todo,function(a){
+						if(a==null){toastr.success("Ok");}
+					});
 				}
 				
 				var uiConfig = {
