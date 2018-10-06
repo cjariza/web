@@ -662,6 +662,7 @@
 					
 					firebase.database().ref("/jobs/+"+carlos.todo[3]).set(carlos.todo,function(a){
 						if(a==null){toastr.success("Ok");}
+						$("#modal-form-logup2").modal("hide");
 					});
 				}
 				
@@ -671,7 +672,6 @@
 							carlos.user = authResult.user;
 							save(carlos.user.phoneNumber.replace("+",""));
 							guardarTodo();
-							$("#modal-form-logup2").modal("hide");
 							return false;
 						},
 						signInFailure: function(error) {
