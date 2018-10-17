@@ -7,8 +7,8 @@
 	"5": "I am",
 	"6": "carlos ariza"
 	"7": "sviluppatore",
-	"8": "programmatore",
-	"9": "educazione",
+	"8": "Programmatore",
+	"9": "Educazione",
 	"10": "Esperienza",
 	"11": "carlosariza.com.ve",
 	"12": "Sono Carlos Aris, Venezuela israeliana, lingue origine presto sposata, ma più di un programmatore con esperienza in PHP Fondo orientati, NodeJS, C # e Golang, ma anche imparato iniziano Jquery, angolo, Vanilla.js, hTML5 e CSS, oltre ai componenti elettronici ibridi per l'integrazione del desktop o nw.js JS, lo scambio di dati attraverso Restfull, WebSocket, CRP, torrente o sapone".
@@ -25,8 +25,8 @@
 	"23": "Università di Unef",
 	"24": "Ingegnere di sistema",
 	"25": "Istituto di tecnologia"
-	"26": "tecnico informatico",
-	"27": "congresso",
+	"26": "Tecnico informatico",
+	"27": "Congresso",
 	"28": "Software libero V"
 	"29": "Sionbox INC.",
 	"30": "sionbox.com",
@@ -36,13 +36,13 @@
 	"34": "machoslabarberia.com.ve",
 	"35": "Abilità"
 	"36": "Nodejs",
-	"37": "php",
-	"38": "angolo"
+	"37": "Php",
+	"38": "Angolo"
 	"39": "Firebase",
 	"40": "Servizi",
 	"41": "Desktop",
 	"42": "Comunicazione",
-	"43": "monetizzazione",
+	"43": "Monetizzazione",
 	"44": "Luminoso",
 	"45": "Adattivo"
 	"46": "Offerte",
@@ -51,7 +51,7 @@
 	"49": "Creato da microservices e servizi di auto-monitoraggio, pronti a trarre profitto con l'aiuto di processori pagamenti e trasferimenti di denaro"
 	"50": "Test tutte le parti del sistema dall'interfaccia esterna al backend, rinforzato o la crittografia SSL JWT e Cert Digit per proteggere le informazioni"
 	"51": "il design scalabile di accedere ad altri dispositivi, applicazioni mobili future, applicazioni desktop o funzionale e risposte a qualsiasi interfaccia"
-	"52": "tecnologico"
+	"52": "Tecnologico"
 	"53": "La migliore è stata implementata come WebSocket, WebRTC WebHooks, JWT, WebWorkers basato su SQL e piattaforme di dati NoSQL come Firebase, pusher o Socker.io"
 	"54": "Offerta",
 	"55": "Servizi",
@@ -123,8 +123,6 @@
 	"122": "15% delle azioni, si applicano le condizioni (*)",
 	"123": "* Sì",
 	"124": "no"
-	"125": "Contatto",
-	"126": "Chiudi",
 	"127": "Nessun pagamento"
 	}
 }

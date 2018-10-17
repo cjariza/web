@@ -6,9 +6,9 @@
 	"4": "Eu gosto do backend",
 	"5": "eu sou",
 	"6": "carlos ariza"
-	"7": "desenvolvedor",
-	"8": "programador",
-	"9": "educação",
+	"7": "Desenvolvedor",
+	"8": "Programador",
+	"9": "Educação",
 	"10": "Experiência",
 	"11": "carlosariza.com.ve",
 	"12": "Eu sou Carlos Aris, Venezuela israelense, línguas casado origem primitiva, mas mais de um programador com experiência em PHP Fundo orientados, NodeJS, C # e golang, mas também aprendi Jquery começar, canto, Vanilla.js, html5 e Css, em adição aos componentes electrónicos híbridos para a integração da área de trabalho ou nw.js JS, a troca de dados através Restfull, WebSocket, CRP, corrente ou sabão".
@@ -25,8 +25,8 @@
 	"23": "Universidade da Unef",
 	"24": "Engenheiro de Sistemas",
 	"25": "Instituto de Tecnologia"
-	"26": "técnico de informática",
-	"27": "congresso",
+	"26": "Técnico de informática",
+	"27": "Congresso",
 	"28": "Software Livre V"
 	"29": "Sionbox INC.",
 	"30": "sionbox.com",
@@ -36,13 +36,13 @@
 	"34": "machoslabarberia.com.ve",
 	"35": "Habilidades"
 	"36": "Nodejs",
-	"37": "php",
-	"38": "canto"
+	"37": "Php",
+	"38": "Canto"
 	"39": "Firebase",
 	"40": "Serviços",
 	"41": "Desktop",
 	"42": "Comunicação",
-	"43": "monetização",
+	"43": "Monetização",
 	"44": "Brilhante",
 	"45": "Adaptável"
 	"46": "Ofertas",
@@ -51,7 +51,7 @@
 	"49": "Criado a partir de microsserviços e serviços autocontrolados, pronto para lucrar com a ajuda de processadores de pagamento e transferências de dinheiro",
 	"50": "Teste todas as partes do sistema da interface externa para o back-end, reforçada com JWT e o Dígito de Certificação criptografado ou SSL para proteger as informações"
 	"51": "Design escalonável para acessar outros dispositivos, futuros aplicativos móveis, desktop ou aplicativos funcionais e respostas para qualquer interface",
-	"52": "tecnológico"
+	"52": "Tecnológico"
 	"53": "O melhor foi implementado como WebSocket, WebRTC WebHooks, JWT, WebWorkers baseado em SQL e plataformas de dados NoSQL, como Firebase, empurrador ou Socker.io"
 	"54": "Oferta",
 	"55": "Serviços",
@@ -123,8 +123,6 @@
 	"122": "15% das ações, condições aplicáveis ​​(*)",
 	"123": "* Sim",
 	"124": "não"
-	"125": "Contato",
-	"126": "Fechar",
 	"127": "sem pagamentos"
 	}
 }
