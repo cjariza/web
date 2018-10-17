@@ -29,21 +29,21 @@
 	"27": "Kongress",
 	"28": "Freie Software V"
 	"29": "Sionbox INC.",
-	"30": "sessionbox.com",
+	"30": "sionbox.com",
 	"31": "Uribarri S.A. Services",
 	"32": "autoperriquitosurribarri.com.ve",
 	"33": "Macho la Barberia",
 	"34": "machoslabarberia.com.ve",
 	"35": "Fähigkeiten"
 	"36": "Nodejs",
-	"37": "php",
+	"37": "Php",
 	"38": "Ecke"
 	"39": "Firebase",
 	"40": "Dienstleistungen",
 	"41": "Desktop",
 	"42": "Kommunikation",
 	"43": "Monetarisierung",
-	"44": "hell",
+	"44": "Hell",
 	"45": "Adaptiv"
 	"46": "Angebote",
 	"47": "Mit einem einzigartigen Design entwickle ich Desktop-Anwendungen mit oder ohne Internetzugang, synchronisierte Daten mit oder ohne Abrechnungsserver",
@@ -51,7 +51,7 @@
 	"49": "Erstellt von Microservices und Self-controlled Services, bereit, mit Hilfe von Zahlungsprozessoren und Geldtransfers zu profitieren",
 	"50": "Testen Sie alle Teile des Systems von der externen Schnittstelle zum Backend, verstärkt oder SSL-Verschlüsselung JWT und Cert Digit zum Schutz von Informationen"
 	"51": "Skalierbares Design für den Zugriff auf andere Geräte, zukünftige mobile Anwendungen, Desktop- oder funktionale Anwendungen und Antworten für jede Schnittstelle",
-	"52": "technologisch"
+	"52": "Technologisch"
 	"53": "Das Beste ist als WebSocket implementiert, WebRTC WebHooks, JWT, Webworkers basierend auf SQL und NoSQL Datenplattformen wie Firebase, Schieber oder Socker.io"
 	"54": "Angebot",
 	"55": "Dienstleistungen",
@@ -123,8 +123,6 @@
 	"122": "15% der Anteile, Bedingungen (*)",
 	"123": "Ja",
 	"124": "nein"
-	"125": "Kontakt",
-	"126": "Schließen",
 	"127": "Keine Zahlungen"
 	}
 }

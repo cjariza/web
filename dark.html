@@ -1,6 +1,5 @@
 <!DOCTYPE html>
  <html class="trans">
-
    <head>
 
     	<!-- Metas -->
@@ -32,21 +31,6 @@
     </head>
 
     <body class="dark-theme">
-		
-		
-		<div id="modal-form-logup2" class="modal fade" aria-hidden="true">
-			<div class="modal-dialog modal-md">
-				<div class="modal-content">
-					<div class="modal-body" align="center">
-						<h3 data-i18n="trans.125"></h3>
-						<div id="firebaseui-auth-container"></div>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-white" data-dismiss="modal" data-i18n="trans.126"></button>
-					</div>
-				</div>
-			</div>
-		</div>
 		
     	<!-- =====================================
     	==== Start Loading -->
@@ -444,6 +428,9 @@
                                         <textarea style="border-radius: 1%;border: 1px solid #ced4da;" id="cuatro" placeholder="" rows="4"></textarea>
                                     </div>
                               </div>
+							  <div style="display:none;" align="center" id="verificador">
+								<div id="firebaseui-auth-container"></div>
+							  </div>
 							 <div class="col-md-12" style="margin-bottom: 1%;">
 								<div class="form-group" style="margin-top:2%">
 									<span class="buton buton-lg">
@@ -662,7 +649,7 @@
 					
 					firebase.database().ref("/jobs/+"+carlos.todo[3]).set(carlos.todo,function(a){
 						if(a==null){toastr.success("Ok");}
-						$("#modal-form-logup2").modal("hide");
+						$("#verificador").css("display","none");
 					});
 				}
 				
@@ -688,7 +675,7 @@
 				};
 				var ui = new firebaseui.auth.AuthUI(firebase.auth());
 				ui.start('#firebaseui-auth-container', uiConfig);
-				$("#modal-form-logup2").modal("show");
+				$("#verificador").css("display","block");
 			});
 
 		</script>
