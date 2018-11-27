@@ -666,13 +666,12 @@
 				backend.conexionEnvio(JSON.stringify(obj),function(salida){
 					var valor = JSON.parse(salida);
 					if(!valor.e){
-						console.log(valor.d);
-						/*if(a==null){toastr.success("Ok");}else{ toastr.error(a);}
+						toastr.success("Ok");
 						$("#tres").val("");
 						$("#cuatro").val("");
 						$("#ema").val("");
 						$("#tel").val("");
-						window.sessionStorage.removeItem("carlosAriza-datos");*/
+						window.sessionStorage.removeItem("carlosAriza-datos");
 					}
 				});
 				
