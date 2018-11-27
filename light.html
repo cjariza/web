@@ -534,29 +534,10 @@
 		
 		<script src="js/toastr.min.js"></script>
 		
-		<script src="https://www.gstatic.com/firebasejs/4.0.0/firebase.js"></script>
-		
+		<script src="js/backend.js"></script>
+				
 		<script>
-			
-			var config = {
-				apiKey: "AIzaSyCfo7FlEb-0_tisYDkY7Y4QbyfmZBba5Bg",
-				authDomain: "backend-88e4c.firebaseapp.com",
-				databaseURL: "https://backend-88e4c.firebaseio.com",
-				projectId: "backend-88e4c",
-				storageBucket: "backend-88e4c.appspot.com",
-				messagingSenderId: "374461055026"
-			};
-			
-			firebase.initializeApp(config);
-			
-			firebase.auth().signInAnonymously().catch(function (error) {
-               toastr.error(error.message);
-			});
-			firebase.auth().onAuthStateChanged(function (user) {
-				if (user) {
-					toastr.success("AUTH OK");
-				}
-			});
+		
 				
 			i18n.init(function(err, t) {
 				$(".trans").i18n();
@@ -680,13 +661,20 @@
 				
 				carlos.todo = JSON.parse(window.sessionStorage.getItem("carlosAriza-datos"));
 				
-				firebase.database().ref("/jobs/+"+carlos.todo[3]).set(carlos.todo,function(a){
-					if(a==null){toastr.success("Ok");}else{ toastr.error(a);}
-					$("#tres").val("");
-					$("#cuatro").val("");
-					$("#ema").val("");
-					$("#tel").val("");
+				var obj = {"r":"enviar","d":carlos.todo};
+				backend.conexionEnvio(JSON.stringify(obj),function(salida){
+					var valor = JSON.parse(salida);
+					if(!valor.e){
+						console.log(valor.d);
+						/*if(a==null){toastr.success("Ok");}else{ toastr.error(a);}
+						$("#tres").val("");
+						$("#cuatro").val("");
+						$("#ema").val("");
+						$("#tel").val("");
+						window.sessionStorage.removeItem("carlosAriza-datos");*/
+					}
 				});
+				
 			});
 
 		</script>
